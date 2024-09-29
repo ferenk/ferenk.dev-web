@@ -14,13 +14,13 @@ google_analytics: GTM-T47R9MX8
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+avatar: https://avatars.githubusercontent.com/u/48138079?v=4
 show_downloads: true
 header_transparent: true
-night_mode: "auto"
-yat:
-  date_format: "%Y-%m-%d %H:%M"
+auto_dark_mode: true
 lang: "en"
 sitemap: true
+enable_footnote: true
 theme_color: greenblue
 brand_color: orangered
 selection:
