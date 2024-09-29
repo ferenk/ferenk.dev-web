@@ -11,7 +11,7 @@ keywords: "Ferenk, dev, development, coding, github, projects"
 google_analytics: GTM-T47R9MX8
 #####################
 # Jekyll theme config
-remote_theme: remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 show_downloads: true
