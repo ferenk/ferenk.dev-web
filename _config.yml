@@ -1,0 +1,34 @@
+#####################
+# Site metadata
+title: Ferenc Móricz
+description: Ferenk's developer page
+email: fmoricz@gmail.com
+author: ferenk
+copyright: "Ferenc Móricz, 2024"
+url: https://github.com/ferenk/ferenk-web
+# baseurl: https://github.com/ferenk/ferenk.dev-web
+keywords: "Ferenk, programmer, dev, development, coding, github, projects"
+google_analytics: GTM-T47R9MX8
+#####################
+# Jekyll theme config
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+logo: https://avatars.githubusercontent.com/u/48138079?v=4
+show_downloads: true
+header_transparent: true
+auto_dark_mode: true
+lang: "en"
+sitemap: true
+enable_footnote: true
+theme_color: greenblue
+brand_color: orangered
+selection:
+  color: "#ff00ff"
+  background_color: "yellow"
+code_badge:
+  enabled: true
+defaults:
+  home:
+    heading: "Ferenk.DEV main page"
+    subheading: "Ferenk's developer site - my main projects"
