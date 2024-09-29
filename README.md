@@ -10,7 +10,7 @@ Developer web page: https://ferenk.dev
 </a>
 <br>
 <a href="https://limeat.ferenk.dev">
-    <div style="position: relative;  color: white; font-family: 'Maiden Orange', serif; font-weight: 400; font-style: normal; font-size: 40px;">
+    <div class="app-container">
         <img alt="limeat banner" class="app-banner" src="https://github.com/ferenk/limeat/releases/download/web/apple_diet_1200x.png" width=320>
         <div class="app-title">lim/eat</div>
     </div>
